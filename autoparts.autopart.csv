@@ -1,0 +1,491 @@
+name,slug,automotive_category,is_active
+Air Deflector,air-deflector,Accessories,TRUE
+Alarm Systems,alarm-systems,Accessories,TRUE
+Bed Mat,bed-mat,Accessories,TRUE
+Bed Rail Cap,bed-rail-cap,Accessories,TRUE
+Bed Rails,bed-rails,Accessories,TRUE
+Bug Shield,bug-shield,Accessories,TRUE
+Bull Bar,bull-bar,Accessories,TRUE
+Camera system,camera-system,Accessories,TRUE
+Car Bra,car-bra,Accessories,TRUE
+Car Cover,car-cover,Accessories,TRUE
+Car DVD,car-dvd,Accessories,TRUE
+Car Radio,radio,Accessories,TRUE
+Clutch Pilot Tool,clutch-pilot-tool,Accessories,TRUE
+Connectors,connectors,Accessories,TRUE
+Convertible Interior Cover,convertible-interior-cover,Accessories,TRUE
+Dash Cover,dash-cover,Accessories,TRUE
+Deck Cover,deck-cover,Accessories,TRUE
+Hitch,hitch,Accessories,TRUE
+Nerf Bars,nerf-bars,Accessories,TRUE
+Pillar Cover,pillar-cover,Accessories,TRUE
+Repair Manual,repair-manual,Accessories,TRUE
+Running Boards,running-boards,Accessories,TRUE
+Satellite Radio,satellite-radio,Accessories,TRUE
+Seat Cover,seat-cover,Accessories,TRUE
+Sound Dampening Material,sound-dampening-material,Accessories,TRUE
+Speaker,speaker,Accessories,TRUE
+Sun Shield,sun-shield,Accessories,TRUE
+Third Brake Light Cover,third-brake-light-cover,Accessories,TRUE
+Tonneau Cover,tonneau-cover,Accessories,TRUE
+Trackers,trackers,Accessories,TRUE
+Truck Cab Top Cover,truck-cab-top-cover,Accessories,TRUE
+Undercarriage Cover,undercarriage-cover,Accessories,TRUE
+Vent Visor,vent-visor,Accessories,TRUE
+Winch,winch,Accessories,TRUE
+Air Filter,air-filter,Air Intake,TRUE
+Air Filter Wrap,air-filter-wrap,Air Intake,TRUE
+Air Injection Pipe,air-injection-pipe,Air Intake,TRUE
+Air Mass Meter,air-mass-meter,Air Intake,TRUE
+Air Mass Sensor,air-mass-sensor,Air Intake,TRUE
+Ambient Temp Sensor,ambient-temp-sensor,Air Intake,TRUE
+Breather Hose,breather-hose,Air Intake,TRUE
+Cold Air Intake,cold-air-intake,Air Intake,TRUE
+Crankcase Breather,crankcase-breather,Air Intake,TRUE
+Diverter Valve,diverter-valve,Air Intake,TRUE
+EGR Valve,egr-valve,Air Intake,TRUE
+EGR Valve Gasket,egr-valve-gasket,Air Intake,TRUE
+Intake Manifold,intake-manifold,Air Intake,TRUE
+Intake Manifold Gasket,intake-manifold-gasket,Air Intake,TRUE
+Intake Plenum Gasket,intake-plenum-gasket,Air Intake,TRUE
+Intake Valve,intake-valve,Air Intake,TRUE
+Mass Air Flow Sensor,mass-air-flow-sensor,Air Intake,TRUE
+PCV Valve,pcv-valve,Air Intake,TRUE
+PCV Valve Grommet,pcv-valve-grommet,Air Intake,TRUE
+Short Ram Intake,short-ram-intake,Air Intake,TRUE
+Throttle Body,throttle-body,Air Intake,TRUE
+Throttle Body Gasket,throttle-body-gasket,Air Intake,TRUE
+Throttle Body Spacer,throttle-body-spacer,Air Intake,TRUE
+Throttle Cable,throttle-cable,Air Intake,TRUE
+Throttle Position Sensor,throttle-position-sensor,Air Intake,TRUE
+Sealed Cell,sealed-cell,Battery,TRUE
+Wet Cell,wet-cell,Battery,TRUE
+Battery Cable,battery-cable,Body Electrical,TRUE
+Brake Light Switch,brake-light-switch,Body Electrical,TRUE
+Combination Switch,combination-switch,Body Electrical,TRUE
+Dimmer Switch,dimmer-switch,Body Electrical,TRUE
+Door Jamb Switch,door-jamb-switch,Body Electrical,TRUE
+Driving Light,driving-light,Body Electrical,TRUE
+Fog Light,fog-light,Body Electrical,TRUE
+Fog Light Switch,fog-light-switch,Body Electrical,TRUE
+Headlight,headlight,Body Electrical,TRUE
+Headlight Bulb,headlight-bulb,Body Electrical,TRUE
+Headlight Cover,headlight-cover,Body Electrical,TRUE
+Headlight Relay,headlight-relay,Body Electrical,TRUE
+Headlight Switch,headlight-switch,Body Electrical,TRUE
+Horn,horn,Body Electrical,TRUE
+Horn Relay,horn-relay,Body Electrical,TRUE
+Park Light Assembly,park-light-assembly,Body Electrical,TRUE
+Relay,relay,Body Electrical,TRUE
+Seat Switch,seat-switch,Body Electrical,TRUE
+Side Marker Assembly,side-marker-assembly,Body Electrical,TRUE
+Tail Light,tail-light,Body Electrical,TRUE
+Tail Light Cover,tail-light-cover,Body Electrical,TRUE
+Tail Light Guard,tail-light-guard,Body Electrical,TRUE
+Turn Signal Assembly,turn-signal-assembly,Body Electrical,TRUE
+Turn Signal Switch,turn-signal-switch,Body Electrical,TRUE
+Window Switch,window-switch,Body Electrical,TRUE
+Wiper Switch,wiper-switch,Body Electrical,TRUE
+Wiring Harness,wiring-harness,Body Electrical,TRUE
+Bonnet,bonnet,Body Mechanical Trim,TRUE
+Bumper,bumper,Body Mechanical Trim,TRUE
+Cab Cover,cab-cover,Body Mechanical Trim,TRUE
+Door,door,Body Mechanical Trim,TRUE
+Door Handle,door-handle,Body Mechanical Trim,TRUE
+Door Lock Cylinder,door-lock-cylinder,Body Mechanical Trim,TRUE
+Door Panel,door-panel,Body Mechanical Trim,TRUE
+Fender Flares,fender-flares,Body Mechanical Trim,TRUE
+Fender Trim,fender-trim,Body Mechanical Trim,TRUE
+Grille,grille,Body Mechanical Trim,TRUE
+Grille Guard,grille-guard,Body Mechanical Trim,TRUE
+Grille Insert,grille-insert,Body Mechanical Trim,TRUE
+Hood,hood,Body Mechanical Trim,TRUE
+Hood Strut,hood-strut,Body Mechanical Trim,TRUE
+Lift Strut,lift-strut,Body Mechanical Trim,TRUE
+Mirror,mirror,Body Mechanical Trim,TRUE
+Mud Flaps,mud-flaps,Body Mechanical Trim,TRUE
+Multi Rib Belt,multi-rib-belt,Body Mechanical Trim,TRUE
+Rocker Panel,rocker-panel,Body Mechanical Trim,TRUE
+Trunk Strut,trunk-strut,Body Mechanical Trim,TRUE
+Washer Pump,washer-pump,Body Mechanical Trim,TRUE
+Window Glass,window-glass,Body Mechanical Trim,TRUE
+Window Motor,window-motor,Body Mechanical Trim,TRUE
+Window Regulator,window-regulator,Body Mechanical Trim,TRUE
+Windshield,windshield,Body Mechanical Trim,TRUE
+Windshield Wiper Arm,windshield-wiper-arm,Body Mechanical Trim,TRUE
+Windshield Wiper Motor,windshield-wiper-motor,Body Mechanical Trim,TRUE
+Wiper Blade,wiper-blade,Body Mechanical Trim,TRUE
+ABS Control Unit,abs-control-unit,Brake,TRUE
+ABS Speed Sensor,abs-speed-sensor,Brake,TRUE
+Brake Booster,brake-booster,Brake,TRUE
+Brake Caliper,brake-caliper,Brake,TRUE
+Brake Caliper Bolt,brake-caliper-bolt,Brake,TRUE
+Brake Disc,brake-disc,Brake,TRUE
+Brake Drum,brake-drum,Brake,TRUE
+Brake Dust Shields,brake-dust-shields,Brake,TRUE
+Brake Hardware Kit,brake-hardware-kit,Brake,TRUE
+Brake Hose,brake-hose,Brake,TRUE
+Brake Line Kit,brake-line-kit,Brake,TRUE
+Brake Master Cylinder,brake-master-cylinder,Brake,TRUE
+Brake Master Repair Kit,brake-master-repair-kit,Brake,TRUE
+Brake Pad Sensor,brake-pad-sensor,Brake,TRUE
+Brake Pad Set,brake-pad-set,Brake,TRUE
+Brake Shoe Set,brake-shoe-set,Brake,TRUE
+Caliper Bushing,caliper-bushing,Brake,TRUE
+Caliper Piston,caliper-piston,Brake,TRUE
+Caliper Repair Kit,caliper-repair-kit,Brake,TRUE
+Hub And Rotor,hub-and-rotor,Brake,TRUE
+Parking Brake Cable,parking-brake-cable,Brake,TRUE
+Parking Brake Shoe,parking-brake-shoe,Brake,TRUE
+Wheel Cylinder,wheel-cylinder,Brake,TRUE
+Wheel Cylinder Kit,wheel-cylinder-kit,Brake,TRUE
+Wheel Cylinder Repair Kit,wheel-cylinder-repair-kit,Brake,TRUE
+Applicator,applicator,Car Care,TRUE
+Bucket,bucket,Car Care,TRUE
+Buffer,buffer,Car Care,TRUE
+Bug And Tar Remover,bug-and-tar-remover,Car Care,TRUE
+Car Wash Brush,car-wash-brush,Car Care,TRUE
+Car Wash Soap,car-wash-soap,Car Care,TRUE
+Chamois,chamois,Car Care,TRUE
+Detail Brush,detail-brush,Car Care,TRUE
+Glass Cleaner,glass-cleaner,Car Care,TRUE
+Gloves,gloves,Car Care,TRUE
+Leather Care,leather-care,Car Care,TRUE
+Plastic Care,plastic-care,Car Care,TRUE
+Polishing Cloth,polishing-cloth,Car Care,TRUE
+Protectant,protectant,Car Care,TRUE
+Scratch Remover,scratch-remover,Car Care,TRUE
+Sponge,sponge,Car Care,TRUE
+Spray Nozzle,spray-nozzle,Car Care,TRUE
+Squeegee,squeegee,Car Care,TRUE
+Tire Shine,tire-shine,Car Care,TRUE
+Tire Wash,tire-wash,Car Care,TRUE
+Towel,towel,Car Care,TRUE
+Wash Mitt,wash-mitt,Car Care,TRUE
+Wax,wax,Car Care,TRUE
+Wheel Brush,wheel-brush,Car Care,TRUE
+A/C Accumulator,ac-accumulator,Climate Control,TRUE
+A/C Blower Motor,ac-blower-motor,Climate Control,TRUE
+A/C Clutch,ac-clutch,Climate Control,TRUE
+A/C Compressor,ac-compressor,Climate Control,TRUE
+A/C Condenser,ac-condenser,Climate Control,TRUE
+A/C Condenser Fan,ac-condenser-fan,Climate Control,TRUE
+A/C Condenser Fan Motor,ac-condenser-fan-motor,Climate Control,TRUE
+A/C Evaporator,ac-evaporator,Climate Control,TRUE
+A/C Expansion Valve,ac-expansion-valve,Climate Control,TRUE
+A/C Hose,ac-hose,Climate Control,TRUE
+A/C O-Ring,ac-o-ring,Climate Control,TRUE
+A/C Orifice Tube,ac-orifice-tube,Climate Control,TRUE
+A/C Receiver Drier,ac-receiver-drier,Climate Control,TRUE
+A/C Relay,ac-relay,Climate Control,TRUE
+ACC Cabin Filter,acc-cabin-filter,Climate Control,TRUE
+Blower Control Switch,blower-control-switch,Climate Control,TRUE
+Blower Motor,blower-motor,Climate Control,TRUE
+Blower Motor Resistor,blower-motor-resistor,Climate Control,TRUE
+Heater Core,heater-core,Climate Control,TRUE
+Heater Hose,heater-hose,Climate Control,TRUE
+Heater Hose Set,heater-hose-set,Climate Control,TRUE
+Heater Valve,heater-valve,Climate Control,TRUE
+Pre Heat Hose,pre-heat-hose,Climate Control,TRUE
+Radiator,radiator,Climate Control,TRUE
+Vacuum Pump,vacuum-pump,Climate Control,TRUE
+Clutch Alignment Tool,clutch-alignment-tool,Clutch,TRUE
+Clutch Cable,clutch-cable,Clutch,TRUE
+Clutch Disc,clutch-disc,Clutch,TRUE
+Clutch Hose,clutch-hose,Clutch,TRUE
+Clutch Interlock Switch,clutch-interlock-switch,Clutch,TRUE
+Clutch Kit,clutch-kit,Clutch,TRUE
+Clutch Master Cylinder,clutch-master-cylinder,Clutch,TRUE
+Clutch Master Repair Kit,clutch-master-repair-kit,Clutch,TRUE
+Clutch Pedal Pad,clutch-pedal-pad,Clutch,TRUE
+Clutch Pivot Ball,clutch-pivot-ball,Clutch,TRUE
+Clutch Release Arm,clutch-release-arm,Clutch,TRUE
+Clutch Release Bearing,clutch-release-bearing,Clutch,TRUE
+Clutch Slave Cylinder,clutch-slave-cylinder,Clutch,TRUE
+Clutch Slave Repair Kit,clutch-slave-repair-kit,Clutch,TRUE
+Clutch Spring,clutch-spring,Clutch,TRUE
+Flywheel,flywheel,Clutch,TRUE
+Flywheel Bolt,flywheel-bolt,Clutch,TRUE
+Flywheel Ring Gear,flywheel-ring-gear,Clutch,TRUE
+Pilot Bearing,pilot-bearing,Clutch,TRUE
+Pilot Bushing,pilot-bushing,Clutch,TRUE
+Pressure Plate,pressure-plate,Clutch,TRUE
+Pressure Plate Bolt,pressure-plate-bolt,Clutch,TRUE
+Rel. Brg. Guide,rel-brg-guide,Clutch,TRUE
+Release Bearing,release-bearing,Clutch,TRUE
+Release Bearing Fork,release-bearing-fork,Clutch,TRUE
+Auxiliary Fan Assembly,auxiliary-fan-assembly,Cooling System,TRUE
+Auxiliary Fan Motor,auxiliary-fan-motor,Cooling System,TRUE
+Bypass Hose,bypass-hose,Cooling System,TRUE
+Coolant Level Sensor,coolant-level-sensor,Cooling System,TRUE
+Coolant Temperature Sensor,coolant-temperature-sensor,Cooling System,TRUE
+Cooling Hose,cooling-hose,Cooling System,TRUE
+Expansion Tank,expansion-tank,Cooling System,TRUE
+Expansion Tank Hose,expansion-tank-hose,Cooling System,TRUE
+Fan Blade,fan-blade,Cooling System,TRUE
+Fan Clutch,fan-clutch,Cooling System,TRUE
+Freeze Plug,freeze-plug,Cooling System,TRUE
+Radiator,radiator-1,Cooling System,TRUE
+Radiator Cap,radiator-cap,Cooling System,TRUE
+Radiator Fan,radiator-fan,Cooling System,TRUE
+Radiator Fan Motor,radiator-fan-motor,Cooling System,TRUE
+Radiator Hose,radiator-hose,Cooling System,TRUE
+Thermo Fan Switch,thermo-fan-switch,Cooling System,TRUE
+Thermostat,thermostat,Cooling System,TRUE
+Thermostat Gasket,thermostat-gasket,Cooling System,TRUE
+Thermostat Housing,thermostat-housing,Cooling System,TRUE
+Water Outlet,water-outlet,Cooling System,TRUE
+Water Outlet Gasket,water-outlet-gasket,Cooling System,TRUE
+Water Pump,water-pump,Cooling System,TRUE
+Water Pump Gasket,water-pump-gasket,Cooling System,TRUE
+Water Temp. Sensor,water-temp-sensor,Cooling System,TRUE
+Axle Assembly,axle-assembly,Driveshaft Axle,TRUE
+Axle Shaft,axle-shaft,Driveshaft Axle,TRUE
+Axle Shaft Bearing,axle-shaft-bearing,Driveshaft Axle,TRUE
+Axle U Bolt,axle-u-bolt,Driveshaft Axle,TRUE
+Axle U Bolt Kit,axle-u-bolt-kit,Driveshaft Axle,TRUE
+C.V. Boot Kit,cv-boot-kit,Driveshaft Axle,TRUE
+CV Boot Kit,cv-boot-kit-1,Driveshaft Axle,TRUE
+Drive Axle Seal,drive-axle-seal,Driveshaft Axle,TRUE
+Driveshaft,driveshaft,Driveshaft Axle,TRUE
+Driveshaft Support,driveshaft-support,Driveshaft Axle,TRUE
+Lug Nut,lug-nut,Driveshaft Axle,TRUE
+Pinion Seal,pinion-seal,Driveshaft Axle,TRUE
+Ring &amp; Pinion,ring-amp-pinion,Driveshaft Axle,TRUE
+Ring And Pinion Installation Kit,ring-and-pinion-installation-kit,Driveshaft Axle,TRUE
+Wheel,wheel,Driveshaft Axle,TRUE
+Wheel Bearing,wheel-bearing,Driveshaft Axle,TRUE
+Wheel Bearing Assy.,wheel-bearing-assy,Driveshaft Axle,TRUE
+Wheel Bearing Kit,wheel-bearing-kit,Driveshaft Axle,TRUE
+Wheel Cover,wheel-cover,Driveshaft Axle,TRUE
+Wheel Hub,wheel-hub,Driveshaft Axle,TRUE
+Wheel Hub Assembly,wheel-hub-assembly,Driveshaft Axle,TRUE
+Wheel Seal,wheel-seal,Driveshaft Axle,TRUE
+Wheel Seal Kit,wheel-seal-kit,Driveshaft Axle,TRUE
+Wheel Spacer,wheel-spacer,Driveshaft Axle,TRUE
+Wheel Stud,wheel-stud,Driveshaft Axle,TRUE
+Alternator,alternator,Engine Electrical,TRUE
+Alternator Brush Set,alternator-brush-set,Engine Electrical,TRUE
+Alternator Rectifier,alternator-rectifier,Engine Electrical,TRUE
+Cruise Control Switch,cruise-control-switch,Engine Electrical,TRUE
+Distributor,distributor,Engine Electrical,TRUE
+Distributor Cap,distributor-cap,Engine Electrical,TRUE
+Distributor Rotor,distributor-rotor,Engine Electrical,TRUE
+Engine Control Module,engine-control-module,Engine Electrical,TRUE
+Fuse,fuse,Engine Electrical,TRUE
+Ignition Coil,ignition-coil,Engine Electrical,TRUE
+Ignition Coil Wire,ignition-coil-wire,Engine Electrical,TRUE
+Ignition Lock Cylinder,ignition-lock-cylinder,Engine Electrical,TRUE
+Ignition Module,ignition-module,Engine Electrical,TRUE
+Ignition Switch,ignition-switch,Engine Electrical,TRUE
+Ignition Wire Set,ignition-wire-set,Engine Electrical,TRUE
+Knock Sensor,knock-sensor,Engine Electrical,TRUE
+Oxygen Sensor,oxygen-sensor,Engine Electrical,TRUE
+Ported Vacuum Switch,ported-vacuum-switch,Engine Electrical,TRUE
+Power Programmer,power-programmer,Engine Electrical,TRUE
+Spark Plug,spark-plug,Engine Electrical,TRUE
+Starter,starter,Engine Electrical,TRUE
+Starter Drive,starter-drive,Engine Electrical,TRUE
+Starter Solenoid,starter-solenoid,Engine Electrical,TRUE
+Vacuum Advance,vacuum-advance,Engine Electrical,TRUE
+Voltage Regulator,voltage-regulator,Engine Electrical,TRUE
+Accessory Belt Tensioner,accessory-belt-tensioner,Engine Mechanical,TRUE
+Accessory Drive Belt,accessory-drive-belt,Engine Mechanical,TRUE
+Camshaft,camshaft,Engine Mechanical,TRUE
+Camshaft Position Sensor,camshaft-position-sensor,Engine Mechanical,TRUE
+Crank Position Sensor,crank-position-sensor,Engine Mechanical,TRUE
+Crankshaft Seal,crankshaft-seal,Engine Mechanical,TRUE
+Cylinder Head Gasket,cylinder-head-gasket,Engine Mechanical,TRUE
+Engine,engine,Engine Mechanical,TRUE
+Engine Cover,engine-cover,Engine Mechanical,TRUE
+Engine Gasket Set,engine-gasket-set,Engine Mechanical,TRUE
+Engine Mount,engine-mount,Engine Mechanical,TRUE
+Harmonic Balancer,harmonic-balancer,Engine Mechanical,TRUE
+Main Bearing Set,main-bearing-set,Engine Mechanical,TRUE
+Oil Filter,oil-filter,Engine Mechanical,TRUE
+Oil Pan Gasket,oil-pan-gasket,Engine Mechanical,TRUE
+Oil Pump,oil-pump,Engine Mechanical,TRUE
+Piston,piston,Engine Mechanical,TRUE
+Piston Ring Set,piston-ring-set,Engine Mechanical,TRUE
+Pushrod,pushrod,Engine Mechanical,TRUE
+Rocker Arm,rocker-arm,Engine Mechanical,TRUE
+Rod Bearing,rod-bearing,Engine Mechanical,TRUE
+Timing Belt,timing-belt,Engine Mechanical,TRUE
+Timing Belt Kit,timing-belt-kit,Engine Mechanical,TRUE
+Timing Belt Tensioner,timing-belt-tensioner,Engine Mechanical,TRUE
+Timing Chain,timing-chain,Engine Mechanical,TRUE
+V Belt,v-belt,Engine Mechanical,TRUE
+Valve Cover Gasket,valve-cover-gasket,Engine Mechanical,TRUE
+Catalytic Converter,catalytic-converter,Exhaust,TRUE
+Center Muffler,center-muffler,Exhaust,TRUE
+Connecting Pipe,connecting-pipe,Exhaust,TRUE
+Exhaust Bracket,exhaust-bracket,Exhaust,TRUE
+Exhaust Flange,exhaust-flange,Exhaust,TRUE
+Exhaust Gasket,exhaust-gasket,Exhaust,TRUE
+Exhaust Hanger,exhaust-hanger,Exhaust,TRUE
+Exhaust Manifold,exhaust-manifold,Exhaust,TRUE
+Exhaust Manifold Gasket,exhaust-manifold-gasket,Exhaust,TRUE
+Exhaust Mount,exhaust-mount,Exhaust,TRUE
+Exhaust Pipe,exhaust-pipe,Exhaust,TRUE
+Exhaust Pipe Gasket,exhaust-pipe-gasket,Exhaust,TRUE
+Exhaust System,exhaust-system,Exhaust,TRUE
+Exhaust Tip,exhaust-tip,Exhaust,TRUE
+Exhaust Valve,exhaust-valve,Exhaust,TRUE
+Extension Pipe,extension-pipe,Exhaust,TRUE
+Front Pipe,front-pipe,Exhaust,TRUE
+Header Gasket,header-gasket,Exhaust,TRUE
+Header Pipe,header-pipe,Exhaust,TRUE
+Headers,headers,Exhaust,TRUE
+Intermediate Pipe,intermediate-pipe,Exhaust,TRUE
+Muffler,muffler,Exhaust,TRUE
+Tail Pipe,tail-pipe,Exhaust,TRUE
+Vapor Canister,vapor-canister,Exhaust,TRUE
+Carburetor,carburetor,Fuel Delivery,TRUE
+Carburetor Float,carburetor-float,Fuel Delivery,TRUE
+Carburetor Kit,carburetor-kit,Fuel Delivery,TRUE
+Choke Thermostat,choke-thermostat,Fuel Delivery,TRUE
+Cold Start Valve,cold-start-valve,Fuel Delivery,TRUE
+Fuel Distributor,fuel-distributor,Fuel Delivery,TRUE
+Fuel Door,fuel-door,Fuel Delivery,TRUE
+Fuel Filter,fuel-filter,Fuel Delivery,TRUE
+Fuel Hose,fuel-hose,Fuel Delivery,TRUE
+Fuel Injector,fuel-injector,Fuel Delivery,TRUE
+Fuel Injector O-Ring,fuel-injector-o-ring,Fuel Delivery,TRUE
+Fuel Injector Seal Kit,fuel-injector-seal-kit,Fuel Delivery,TRUE
+Fuel Level Sending Unit,fuel-level-sending-unit,Fuel Delivery,TRUE
+Fuel Pressure Regulator,fuel-pressure-regulator,Fuel Delivery,TRUE
+Fuel Pump,fuel-pump,Fuel Delivery,TRUE
+Fuel Pump Assembly,fuel-pump-assembly,Fuel Delivery,TRUE
+Fuel Pump Relay,fuel-pump-relay,Fuel Delivery,TRUE
+Fuel Sender,fuel-sender,Fuel Delivery,TRUE
+Fuel Strainer,fuel-strainer,Fuel Delivery,TRUE
+Fuel Tank,fuel-tank,Fuel Delivery,TRUE
+Fuel Tank Cap,fuel-tank-cap,Fuel Delivery,TRUE
+Fuel Tank Strap,fuel-tank-strap,Fuel Delivery,TRUE
+Idle Control Unit,idle-control-unit,Fuel Delivery,TRUE
+Idle Control Valve,idle-control-valve,Fuel Delivery,TRUE
+MAP Sensor,map-sensor,Fuel Delivery,TRUE
+Arm Rest Cover,arm-rest-cover,Interior Styling,TRUE
+Boost Gauge,boost-gauge,Interior Styling,TRUE
+Cargo Liner,cargo-liner,Interior Styling,TRUE
+Cargo Mat,cargo-mat,Interior Styling,TRUE
+Carpet Kit,carpet-kit,Interior Styling,TRUE
+Dashboard,dashboard,Interior Styling,TRUE
+Floor Liner,floor-liner,Interior Styling,TRUE
+Floor Mat,floor-mat,Interior Styling,TRUE
+Fuel Gauge,fuel-gauge,Interior Styling,TRUE
+Fuel Pressure Gauge,fuel-pressure-gauge,Interior Styling,TRUE
+Gauge Adapter,gauge-adapter,Interior Styling,TRUE
+Gauge Face,gauge-face,Interior Styling,TRUE
+Gauge Pod,gauge-pod,Interior Styling,TRUE
+Header Panel,header-panel,Interior Styling,TRUE
+Oil Pressure Gauge,oil-pressure-gauge,Interior Styling,TRUE
+Oil Temp Gauge,oil-temp-gauge,Interior Styling,TRUE
+Pyrometer Gauge,pyrometer-gauge,Interior Styling,TRUE
+Seat,seat,Interior Styling,TRUE
+Shift Knob,shift-knob,Interior Styling,TRUE
+Shift Light,shift-light,Interior Styling,TRUE
+Speedometer,speedometer,Interior Styling,TRUE
+Transmission Temp Gauge,transmission-temp-gauge,Interior Styling,TRUE
+Trunk Mat,trunk-mat,Interior Styling,TRUE
+Water Temp Gauge,water-temp-gauge,Interior Styling,TRUE
+Automatic Transmission Fluid,automatic-transmission-fluid,Lubricants,TRUE
+Brake Fluid,brake-fluid,Lubricants,TRUE
+Cooling System Additive,cooling-system-additive,Lubricants,TRUE
+Diesel System Additive,diesel-system-additive,Lubricants,TRUE
+Engine Oil,engine-oil,Lubricants,TRUE
+Grease,grease,Lubricants,TRUE
+Petrol System Additive,petrol-system-additive,Lubricants,TRUE
+Power Steering Oil,power-steering-oil,Lubricants,TRUE
+Suspension fluid,suspension-fluid,Lubricants,TRUE
+Drag Link,drag-link,Steering,TRUE
+Idler Arm,idler-arm,Steering,TRUE
+Idler Arm Bushing,idler-arm-bushing,Steering,TRUE
+Idler Arm Repair Kit,idler-arm-repair-kit,Steering,TRUE
+Nut,nut,Steering,TRUE
+P/S Hose,ps-hose,Steering,TRUE
+P/S Pressure Hose,ps-pressure-hose,Steering,TRUE
+P/S Pump,ps-pump,Steering,TRUE
+P/S Return Hose,ps-return-hose,Steering,TRUE
+Pitman Arm,pitman-arm,Steering,TRUE
+Power Steering Gear Box,power-steering-gear-box,Steering,TRUE
+Rack And Pinion Assembly,rack-and-pinion-assembly,Steering,TRUE
+Rack And Pinion Bellow Kit,rack-and-pinion-bellow-kit,Steering,TRUE
+Steering Damper,steering-damper,Steering,TRUE
+Steering Gear Seal Kit,steering-gear-seal-kit,Steering,TRUE
+Steering Rack,steering-rack,Steering,TRUE
+Steering Rack Boot Kit,steering-rack-boot-kit,Steering,TRUE
+Steering Rack Bushing,steering-rack-bushing,Steering,TRUE
+Steering Rack Seal Kit,steering-rack-seal-kit,Steering,TRUE
+Steering Wheel,steering-wheel,Steering,TRUE
+Steering Wheel Installation Kit,steering-wheel-installation-kit,Steering,TRUE
+Tie Rod Adjusting Sleeve,tie-rod-adjusting-sleeve,Steering,TRUE
+Tie Rod Assembly,tie-rod-assembly,Steering,TRUE
+Tie Rod End,tie-rod-end,Steering,TRUE
+Transverse Link,transverse-link,Steering,TRUE
+Air Suspension Balloon,air-suspension-balloon,Suspension,TRUE
+Alignment Kit,alignment-kit,Suspension,TRUE
+Ball Joint,ball-joint,Suspension,TRUE
+Body Lift Kit,body-lift-kit,Suspension,TRUE
+Center Link,center-link,Suspension,TRUE
+Coil Springs,coil-springs,Suspension,TRUE
+Control Arm,control-arm,Suspension,TRUE
+Control Arm Bushing,control-arm-bushing,Suspension,TRUE
+Control Arm Bushing Kit,control-arm-bushing-kit,Suspension,TRUE
+Control Arm Kit,control-arm-kit,Suspension,TRUE
+Control Arm Shaft Kit,control-arm-shaft-kit,Suspension,TRUE
+Leaf Spring,leaf-spring,Suspension,TRUE
+Leaf Spring Bushing,leaf-spring-bushing,Suspension,TRUE
+Lowering Kit,lowering-kit,Suspension,TRUE
+Shock Absorber,shock-absorber,Suspension,TRUE
+Stabilizer Bar Bushing,stabilizer-bar-bushing,Suspension,TRUE
+Strut Assembly,strut-assembly,Suspension,TRUE
+Strut Insert,strut-insert,Suspension,TRUE
+Strut Mount,strut-mount,Suspension,TRUE
+Strut Mounting Kit,strut-mounting-kit,Suspension,TRUE
+Strut Rod Bushing,strut-rod-bushing,Suspension,TRUE
+Suspension Lift Kit,suspension-lift-kit,Suspension,TRUE
+Sway Bar,sway-bar,Suspension,TRUE
+Sway Bar Bushing,sway-bar-bushing,Suspension,TRUE
+Sway Bar Link,sway-bar-link,Suspension,TRUE
+Sway Bar Link Kit,sway-bar-link-kit,Suspension,TRUE
+Tools,tools,Tools,TRUE
+AT Filter,at-filter,Transmission,TRUE
+AT Filter Kit,at-filter-kit,Transmission,TRUE
+AT Front Seal,at-front-seal,Transmission,TRUE
+AT Pan Gasket,at-pan-gasket,Transmission,TRUE
+Countershaft Bearing,countershaft-bearing,Transmission,TRUE
+Differential,differential,Transmission,TRUE
+Differential Bearing,differential-bearing,Transmission,TRUE
+Differential Cover,differential-cover,Transmission,TRUE
+Differential Seal,differential-seal,Transmission,TRUE
+Flex Plate,flex-plate,Transmission,TRUE
+Gear Box,gear-box,Transmission,TRUE
+Input Shaft Seal,input-shaft-seal,Transmission,TRUE
+Neutral Safety Switch,neutral-safety-switch,Transmission,TRUE
+Output Shaft Seal,output-shaft-seal,Transmission,TRUE
+Shifter,shifter,Transmission,TRUE
+Speed Sensor,speed-sensor,Transmission,TRUE
+Speedometer Cable,speedometer-cable,Transmission,TRUE
+Tachometer,tachometer,Transmission,TRUE
+Torque Converter,torque-converter,Transmission,TRUE
+Transfer Case Seal,transfer-case-seal,Transmission,TRUE
+Transmission Assembly,transmission-assembly,Transmission,TRUE
+Transmission Filter,transmission-filter,Transmission,TRUE
+Transmission Mount,transmission-mount,Transmission,TRUE
+Transmission Oil Line,transmission-oil-line,Transmission,TRUE
+Transmission Rebuild Kit,transmission-rebuild-kit,Transmission,TRUE
+Vehicle Speed Sensor,vehicle-speed-sensor,Transmission,TRUE
+"12"" Tyre",12-tyre,Tyres,TRUE
+"13"" Tyre",13-tyre,Tyres,TRUE
+"14"" Tyre",14-tyre,Tyres,TRUE
+"15"" Tyre",15-tyre,Tyres,TRUE
+"16"" Tyre",16-tyre,Tyres,TRUE
+"16.5"" Tyre",165-tyre,Tyres,TRUE
+"17"" Tyre",17-tyre,Tyres,TRUE
+"18"" Tyre",18-tyre,Tyres,TRUE
+"19"" Tyre",19-tyre,Tyres,TRUE
+"19.5"" Tyre",195-tyre,Tyres,TRUE
+"20"" Tyre",20-tyre,Tyres,TRUE
+"21"" Tyre",21-tyre,Tyres,TRUE
+"22"" Tyre",22-tyre,Tyres,TRUE
